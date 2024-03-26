@@ -15,7 +15,7 @@ To get started with QR Fusion, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/qr-fusion.git
+   git clone https://github.com/vishkharat/QR-Fusion
 ## Usage
 1.Open the QR Fusion application in your web browser.
 2.Paste a URL or enter text into the input field.
